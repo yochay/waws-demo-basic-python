@@ -1,0 +1,3 @@
+use http://www.windowsazure.com/en-us/develop/python/tutorials/web-sites-configuration/ to setup the demo and show Python running on Windows Azure 
+
+Also show  http://www.windowsazure.com/en-us/develop/python/tutorials/web-sites-with-django as option to run Django and friends. 

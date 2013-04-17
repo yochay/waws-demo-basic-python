@@ -5,4 +5,4 @@ def application(environ, start_response):
 	output += '<h1>This is a demo for basic python running on WAWS</h1>'
 	output += '</html>'
 	start_response('200 OK', [('Content-type', 'text/html')])
-	return output
+	yield output
